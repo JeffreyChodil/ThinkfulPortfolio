@@ -12,6 +12,7 @@ img {
  width: 250px;
  height: 300px;	
 }
+
 /*Creating a nice circular presentation of my headshot*/
 .img-circle {
  display: block;
@@ -26,7 +27,7 @@ a {
 }
 
 a:link	{ color: blue; }
-a:visited	{ color: red; }
+a:visited { color: red; }
 a:hover	{ color: green; }
 a:active { color: yellow; }
 

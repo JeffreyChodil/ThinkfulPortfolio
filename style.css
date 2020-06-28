@@ -1,0 +1,33 @@
+body {
+ margin: 0;
+ padding: 10px;
+}
+
+h1, h2, h3 {
+ font-family: Helvetica, Garamond, Times New Roman;
+ text-align: center;
+}
+	
+img {
+ width: 250px;
+ height: 300px;	
+}
+/*Creating a nice circular presentation of my headshot*/
+.img-circle {
+ display: block;
+ margin: auto;
+ border-radius: 50%;	
+}
+
+a {
+ font-family: Helvetica, Garamond, Times New Roman;
+ font-size: 20px;
+ text-align: center;
+}
+
+a:link	{ color: blue; }
+a:visited	{ color: red; }
+a:hover	{ color: green; }
+a:active { color: yellow; }
+
+/*This is pretty plain so far, but I'll continue adding to it as I progress*/

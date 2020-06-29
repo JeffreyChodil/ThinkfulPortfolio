@@ -25,7 +25,7 @@ img {
  border-radius: 50%;	
 }
 
-a, p, h3 {
+a, p, h3, ul, ol {
  font-family: Helvetica, Garamond, Times New Roman;
  font-size: 12px; 
 }

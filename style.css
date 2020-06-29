@@ -1,6 +1,7 @@
 html {
  /*Setting the background color to a friendly Ivory, like the keys of a piano*/
  background-color: #FFFFF0;
+ font-family: Helvetica, Garamond, "Times New Roman";
 }
 
 body {
@@ -9,7 +10,6 @@ body {
 }
 
 h1, h2, header > p {
- font-family: Helvetica, Garamond, Times New Roman;
  text-align: center;
 }
 	
@@ -26,13 +26,12 @@ img {
 }
 
 a, p, h3, ul, ol {
- font-family: Helvetica, Garamond, Times New Roman;
  font-size: 12px; 
 }
 
 a:link	{ color: blue; }
-a:visited { color: red; }
+a:visited { color: purple; }
 a:hover	{ color: green; }
-a:active { color: yellow; }
+a:active { color: red; }
 
 /*This is pretty plain so far, but I'll continue adding to it as I progress*/
